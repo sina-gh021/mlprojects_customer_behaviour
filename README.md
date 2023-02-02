@@ -1,4 +1,4 @@
-this projet uses K-mesns algorithm to cluster customers based on some features like age , annual incom and ....     
+this projet uses K-mesns algorithm to cluster customers based on some features like age , annual incom and etc.     
 
 it works on customer.csv data set which has:    
 1)CustomerID   
